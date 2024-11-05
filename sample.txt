@@ -1,2 +1,2 @@
 >>>>>>>>>>>>>>>>>>>  This is the first line in hands-on  >>>>>>>>>>>>>>>>>>>>>>>>>
-third line in branch b
+3rd line added
