@@ -1,2 +1,5 @@
 >>>>>>>>>>>>>>>>>>>  This is the first line in hands-on  >>>>>>>>>>>>>>>>>>>>>>>>>
 3rd line added
+
+
+python batch after hand-on 
